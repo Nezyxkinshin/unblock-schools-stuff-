@@ -1,0 +1,282 @@
+RazerPhone2
+GooglePixel3
+1CoolThing
+FacebookPurge
+Google+
+Features
+/
+13 Secret Codes That Unlock Hidden Features on Your Phone
+The USSD protocol allows you to access hidden features you didn't know about right from your smartphone's dialer. But there is some trickiness you'll need to know about.
+Evan Dashevsky Icon
+By
+Evan Dashevsky
+July 18, 2017 9:40AM EST
+Facebook
+Twitter
+Linkedin
+Pinterest
+Reddit
+Email
+Copy
+ 13 Secret Codes That Unlock Hidden Features on Your Phone
+14 Slideshow Arrow
+Remember that scene in War Games when the socially broken code monkeys were explaining to aspiring hacker Matthew Broderick all about "back doors" (i.e. secret pathways planted by programmers)? Well, that's actually a thing.
+
+Coders have a storied tradition of baking in secret passageways (or sometimes, just fun little Easter eggs) that can only be accessed by inputting a special "key." And so that tradition continues in the mobile age.
+
+Unstructured Supplementary Service Data (USSD)—sometimes known as "quick codes" or "feature codes"—is an extra-UI protocol, which allows people to access hidden features. This protocol was originally created for GSM phones, but can be found on CDMA devices as well (if that's a bunch of acronym gibberish to you, here's a quick primer).
+
+READ: 15 Cool Tricks You Didn't Know Your Phone's Camera Could Do
+
+These publicly available backchannels allow users to directly communicate with their service provider's computers and/or access back-end features in their device. They are accessed by inputting them into the phone's dialer (the screen you use to start a phone call) and usually begin and end with the * or # keys with a sequence of numbers in between (there's close-to-zero chance that anyone would accidentally access them).
+
+They're not terribly practical. Most people don't really need to know how their local cell towers are performing or what their IMEI number is (more on that later). Still, it can be fun to play around and see what unexpected functionality your phone is hiding beneath the surface.
+
+We would LOVE to provide you with a comprehensive list of the dozens of codes out there, but that would be an exercise in futility. These codes seldom work across different carriers, OSes, or phone models (or even on generations of the same model).
+
+If you really want to try them out, your best bet may be to Google your phone's make and carrier + "USSD" for a tailored, comprehensive list. I attempted a number of codes using an iPhone SE (while trading out numerous carrier SIM cards) in addition to a Galaxy S5 and Galaxy S7 Edge running on AT&T. Some of them worked! Check out the list below for 13 codes that I can confirm worked on at least one device. Good luck and have fun!
+
+View As: One PageSlides
+Field Mode: *3001#12345#*
+Facebook Icon
+Share
+Twitter Icon
+Tweet
+Pinterest Icon
+Pin
+Email Icon
+Email
+1 Field Mode: *3001#12345#*
+Type *3001#12345#* into your phone's dialer and then press the green call button to access "Field Mode," which can give you access to info about local networks and cell towers.
+
+You'll probably never ever have to know about your local cell tower's "Measured RSSi," but it's fun to look around for a bit.
+General Test Mode: *#0*#
+Facebook Icon
+Share
+Twitter Icon
+Tweet
+Pinterest Icon
+Pin
+Email Icon
+Email
+2 General Test Mode: *#0*#
+I could only get this to work on Android. But this prompts a library of different phone operations, which could be operated with a single push (e.g. Sleep, Front Cam, Vibration).
+Display your IMEI: *#06#
+Facebook Icon
+Share
+Twitter Icon
+Tweet
+Pinterest Icon
+Pin
+Email Icon
+Email
+3 Display your IMEI: *#06#
+Here's a code which I found out does not work with Verizon on an iPhone, but I could make it work after switching to a T-Mobile SIM. It also worked on my Android AT&T device as well. To access it, type in the above code, and then the green call button to prompt your IMEI number (or your International Mobile Station Equipment Identity number, but you already knew that).
+
+The IMEI is unique to your device. Among other things, the number can help "blacklist" stolen devices or help with customer support.
+Check Your Call Forwarding: *#67#
+Facebook Icon
+Share
+Twitter Icon
+Tweet
+Pinterest Icon
+Pin
+Email Icon
+Email
+4 Check Your Call Forwarding: *#67#
+This code allows you to check which number your phone is currently forwarding calls to when you're busy or reject a call. 
+
+By default, this is probably your carrier's voicemail service, but you can change it to forward to a different number (a home number, office number, or third-party answering service for example). On an iPhone, you can change this number by going to Settings > Phone > Call Forwarding. On Android (varies from system to system), tap the Phone app > hamburger icon > Settings > Call > More Settings > Call forwarding
+Get Even More Info on Call Forwarding: *#61#
+Facebook Icon
+Share
+Twitter Icon
+Tweet
+Pinterest Icon
+Pin
+Email Icon
+Email
+5 Get Even More Info on Call Forwarding: *#61#
+On my Galaxy phone, this code prompted a pop-up that let me know how long until a call is forwarded to the message center. On the iPhone, regardless of carrier, this code just showed me the same info as *#67# .
+Check Your Available Minutes: *646#
+Facebook Icon
+Share
+Twitter Icon
+Tweet
+Pinterest Icon
+Pin
+Email Icon
+Email
+6 Check Your Available Minutes: *646#
+Apparently this one only works on postpaid plans. I was not able to get it to work on my test iPhone (regardless of carrier; I tried three), but I did get it to work on my Galaxy phone (which happens to have an unlimited texting plan from AT&T). Instead of showing the info on a new screen, it sent my phone a text message.
+Check Your Bill Balance: *225#
+Facebook Icon
+Share
+Twitter Icon
+Tweet
+Pinterest Icon
+Pin
+Email Icon
+Email
+7 Check Your Bill Balance: *225#
+Once again, I couldn't get this one to work on the iPhone, but on Android I did get it to prompt a SMS message with my current balance due.
+Hide Your Phone From Caller ID: #31#
+Facebook Icon
+Share
+Twitter Icon
+Tweet
+Pinterest Icon
+Pin
+Email Icon
+Email
+8 Hide Your Phone From Caller ID: #31#
+I could only get this to work on Android. But entering this code prompted a pop-up stating that my Caller ID had been disabled. In order to re-instate Caller ID, enter *31# .
+Check Your Billing Cycle: *3282#
+Facebook Icon
+Share
+Twitter Icon
+Tweet
+Pinterest Icon
+Pin
+Email Icon
+Email
+9 Check Your Billing Cycle: *3282#
+Once again, I could only get this to work on Android. It prompted an SMS message with my billing info.
+SMS Message Center: *5005*7672#
+Facebook Icon
+Share
+Twitter Icon
+Tweet
+Pinterest Icon
+Pin
+Email Icon
+Email
+10 SMS Message Center: *5005*7672#
+This code will tell you your SMS message center number. I have no idea why you'd need that info, but there ya go.
+Activate Call Waiting: *43#
+Facebook Icon
+Share
+Twitter Icon
+Tweet
+Pinterest Icon
+Pin
+Email Icon
+Email
+11 Activate Call Waiting: *43#
+This code will activate call waiting; you can deactivate it by entering #43#.
+Quick Test Menu (Samsung Galaxy Only) *#7353#
+Facebook Icon
+Share
+Twitter Icon
+Tweet
+Pinterest Icon
+Pin
+Email Icon
+Email
+12 Quick Test Menu (Samsung Galaxy Only) *#7353#
+As far as I can tell, this code only works on Samsung Galaxy models (I tested it on my Galaxy S7 Edge). This is similar to the General Test mode mentioned earlier, in that it brings up a menu with a number of one-tap test prompts. 
+
+The first test is "Melody," which prompts a jaunty little K-Pop diddy. I don't know who the artist is (it's un-Shazammable!), but a search of the lyrics pointed me to this YouTube clip, with a title that translates to "Samsung Anycall Galaxy basic level - Hey Now (Good bye)." If you have any details on this mobile mystery, drop it in the comments.
+Firmware (Samsung Galaxy Only) *#1234#
+Facebook Icon
+Share
+Twitter Icon
+Tweet
+Pinterest Icon
+Pin
+Email Icon
+Email
+13 Firmware (Samsung Galaxy Only) *#1234#
+Once again, as far as I can tell, this only works on Galaxy devices. But it will let you know your phone's current firmware. So, have fun with that.
+
+Facebook Icon
+Share
+Twitter Icon
+Tweet
+Pinterest Icon
+Pin
+Email Icon
+Email
+14 Secrets of the Computer
+For it was predicted in 1983...
+TOP
+PROMOTED STORIESPOWERED BY ZERGNET
+ Movies To Avoid Watching With Your Partner At All Costs
+Movies To Avoid Watching With Your Partner At All Costs
+ Iconic Movie Scenes These Actors Totally Regret Filming
+Iconic Movie Scenes These Actors Totally Regret Filming
+ Why the Fantastic Four Remake Really Isnt That Bad
+Why the 'Fantastic Four' Remake Really Isn't That Bad
+ Bloopers Thatll Change The Way You See These Horror Movies
+Bloopers That'll Change The Way You See These Horror Movies
+ Disturbing Things Only Adults Notice in Harry Potter
+Disturbing Things Only Adults Notice in 'Harry Potter'
+ Stars You May Not Know Passed Away
+Stars You May Not Know Passed Away
+About the Author
+Evan Dashevsky Icon
+Evan Dashevsky
+Features Editor
+Evan Dashevsky served as a features editor with PCMag and host of live interview series The Convo. He could usually be found listening to blisteringly loud noises on his headphones while exploring the nexus between tech, culture, and politics. Follow his thought sneezes over on the Twitter (@haldash) and slightly more in-depth diatribin' over on th... See Full Bio
+
+More From Evan
+21 Cool Tricks and Secret Gems Inside Facebook Messenger
+
+28 Hidden Facebook Features Only Power Users Know
+
+22 Streaming Horror Movies for a Truly Creepy Halloween
+
+How to Donate to Hurricane Harvey Victims
+
+Fareed Zakaria: STEM Education Is Important, But Not Everything
+
+See More
+COMMENTS
+blog comments powered by Disqus
+PCMag reviews products independently, but we may earn affiliate commissions from buying links on this page. Terms of use.
+GET OUR BEST STORIES!
+Subscribe to What's New Now
+
+
+Enter Your Email Address
+Sign Up
+This newsletter may contain advertising, deals, or affiliate links. Subscribing to a newsletter indicates your consent to our Terms of Use and Privacy Policy. You may unsubscribe from the newsletters at any time.
+
+RELATED FEATURES
+6 New Google Pixel 3 Features Also Coming to Pixel 2
+6 New Google Pixel 3 Features Also Coming to Pixel 2
+18 Streaming Horror Movies for a Truly Creepy Halloween
+18 Streaming Horror Movies for a Truly Creepy Halloween
+Gear Envy: My Collection of 500+ Pieces of Computer and Gaming Hardware
+Gear Envy: My Collection of 500+ Pieces of Computer and Gaming Hardware
+The 10 Most Pirated Movies
+The 10 Most Pirated Movies
+The Best Viral Videos Captured by Smart Doorbells
+The Best Viral Videos Captured by Smart Doorbells
+DISCOVER
+Best VPN Services
+The Best VPN Services of 2018
+Yakuza 0
+The Best PC Games
+Sad PC, Habits Destroying your PC
+6 Bad Habits That Are Destroying Your PC
+See More
+logo
+FACEBOOK
+ 
+TWITTER
+ 
+INSTAGRAM
+ 
+PINTEREST
+ 
+LINKEDIN
+ 
+YOUTUBE
+ABOUT US PCMAG DIGITAL EDITION NEWSLETTERS ENCYCLOPEDIA RSS FEED
+MORE FROM ZIFF DAVIS: MASHABLE EXTREMETECH GEEK ASKMEN EVERYDAY HEALTH IGN OFFERS.COM SPEEDTEST.NET TECHBARGAINS TOOLBOX WHAT TO EXPECT
+RSS FEEDS SITE MAP CONTACT US PRIVACY POLICY TERMS OF USE ADVERTISE ACCESSIBILITY STATEMENT
+logo
+© 1996-2018 Ziff Davis, LLC. PCMag Digital Group 
+PC, PC Magazine and PC PCMag.com are among the federally registered trademarks of 
+Ziff Davis, LLC and may not be used by third parties without explicit permission.
